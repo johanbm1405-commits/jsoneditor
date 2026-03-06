@@ -13,7 +13,7 @@ The library was originally developed as core component of the popular web applic
 Supported browsers: Chrome, Firefox, Safari, Edge.
 
 <img alt="json editor" src="https://raw.github.com/josdejong/jsoneditor/master/misc/jsoneditor.png"> &nbsp; <img alt="code editor" src="https://raw.github.com/josdejong/jsoneditor/master/misc/codeeditor.png">
-  
+   
 Continuous integration tests are run on [GitHub Actions](https://github.com/josdejong/mathjs/actions), and [LambdaTest](https://www.lambdatest.com) is used to test on all major browsers.
 
 [![LambdaTest](https://raw.github.com/josdejong/mathjs/master/misc/lambdatest.svg)](https://www.lambdatest.com)
